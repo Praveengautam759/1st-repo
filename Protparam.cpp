@@ -110,13 +110,3 @@ int main() {
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-Transcribe a dna sequence into rna to protein
